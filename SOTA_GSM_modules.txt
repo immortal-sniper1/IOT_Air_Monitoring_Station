@@ -1,0 +1,97 @@
+NOTE: considering both ICs/modules and M.2 breackout boards especialy since different brands may be compatible with each other
+usefull links/filters:
+https://lcsc.com/products/2G-3G-4G-5G-Modules_11222.html?keyword=Quectel%20UG95-EA
+https://lcsc.com/products/2G-3G-4G-5G-Modules_11222.html?brand=390
+-----------------------------------------------------------------------------------------------------------------------------------
+SIM900 series seems to be popular with arduino projects so libs should be easy to get (2/3/4/5G)
+
+https://www.instructables.com/How-to-Use-Arduino-GSM-Shield-SIM900/
+
+-----------------------------------------------------------------------------------------------------------------------------------
+SIM808 seems popular due to its use in Adafruit products + ALSO includes GPS (2/3/4/5G)
+
+https://www.adafruit.com/product/2542
+https://www.adafruit.com/product/2636
+https://www.sparkfun.com/products/20324
+
+
+https://lcsc.com/product-detail/2G-3G-4G-5G-Modules_SIMCom-Wireless-Solutions-SIM808_C126275.html
+
+
+https://www.arduino.cc/reference/en/libraries/sim808/
+https://www.arduinolibraries.info/libraries/sim808
+
+-----------------------------------------------------------------------------------------------------------------------------------
+SIM5220E/A  (also a international version)  seems popular due to its use in Adafruit products + ALSO includes GPS (2/3/4/5G)
+
+https://www.adafruit.com/product/2691
+
+-----------------------------------------------------------------------------------------------------------------------------------
+SIM868  seems popular due to its use in Adafruit products + ALSO includes GPS
+
+https://www.robofun.ro/gsm/placa-dezvoltare-pentru-raspberry-pi-cu-gsm-gprs-gps-bluetooth.html
+https://www.sparkfun.com/products/18814
+https://www.sparkfun.com/products/19614
+
+
+https://lcsc.com/search?q=SIM868
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Telit GL865-QUAD
+
+https://www.sparkfun.com/products/18806
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Quectel’s MC60 quad-band   +  includes GPS
+
+https://www.sparkfun.com/products/18946
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Quectel UG95-EA
+
+https://www.sparkfun.com/products/19952
+https://www.sparkfun.com/products/20343
+https://www.sparkfun.com/products/19928    ??? US only maybe
+https://www.sparkfun.com/products/20214
+
+-----------------------------------------------------------------------------------------------------------------------------------
+LARA-R211
+
+https://www.sparkfun.com/products/20281
+https://www.sparkfun.com/products/19869    ??? US only maybe
+
+-----------------------------------------------------------------------------------------------------------------------------------
+SARA-R410M-02B 
+
+https://www.sparkfun.com/products/18951
+
+-----------------------------------------------------------------------------------------------------------------------------------
+SARA U-201
+
+https://www.sparkfun.com/products/18789
+
+-----------------------------------------------------------------------------------------------------------------------------------
+ELS61 Thales
+
+https://www.sparkfun.com/products/19534
+https://www.sparkfun.com/products/19535
+
+-----------------------------------------------------------------------------------------------------------------------------------
+BC66-NA
+
+https://www.sparkfun.com/products/19271
+
+-----------------------------------------------------------------------------------------------------------------------------------
+EXS82-W  Thales 
+
+https://www.sparkfun.com/products/19412
+
+-----------------------------------------------------------------------------------------------------------------------------------
+C1-RM
+
+https://www.sparkfun.com/products/19135
+
+-----------------------------------------------------------------------------------------------------------------------------------
+M10 Quectel
+
+https://docs.arduino.cc/retired/shields/arduino-gsm-shield-2-integrated-antenna
